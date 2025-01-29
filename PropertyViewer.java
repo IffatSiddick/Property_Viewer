@@ -1,6 +1,7 @@
 import java.awt.Desktop;
 import java.net.URI;
-import java.net.URISyntaxException;
+import java.net.URISyntaxException;  
+//sfsf
 
 /**
  * This project implements a simple application. Properties from a fixed
